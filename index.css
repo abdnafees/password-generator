@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background: #ECFDF5;
+}
+.container {
+    margin: 30px;
+    max-width: 400px;
+}
+
+.tagline {
+    font-family: 'Karla';
+    font-size: 40px;
+    color: #2B283A;
+    margin-bottom: 0;
+}
+
+.green-text {
+    color: #10B981;
+}
+
+.subheading {
+    font-family: 'Inter';
+    color: #6B7280;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.generate-btn {
+    width: 200px;
+    height: 40px;
+    margin-top: 30px; 
+    margin-bottom: 30px;
+    font-family: 'Inter';
+    font-style: 500;
+    font-size: 16px;
+    background: #10B981;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+
+hr {
+    width: 380px;
+    margin: 0;
+    border: none;
+    border-bottom: 2px solid #D5D4D8;
+    
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.output {
+    font-family: 'Inter';
+    font-style: 500;
+    width: 200px;
+    height: 35px; 
+    text-align: center;
+    line-height: 35px;
+    margin-top: 30px;
+    margin-right: 20px;
+    background: #273549;
+    color: #5DEF92;
+    border-radius: 6px;
+}
